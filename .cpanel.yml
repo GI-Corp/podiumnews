@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/podiumnews/public_html/
+    - export DEPLOYPATH=/home/podiumne/public_html/
     - /bin/cp -R * $DEPLOYPATH
